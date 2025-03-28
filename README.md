@@ -10,15 +10,3 @@ Este es un proyecto construido con **Next.js**, **Prisma** y **TailwindCSS** que
 - [TypeScript](https://www.typescriptlang.org/) – Tipado fuerte para JavaScript
 - [DeepSeek](https://deepseek.com/) – Generador de contenido (opcional)
 
-## 🛠️ Instalación y ejecución local
-
-```bash
-# 1. Instala las dependencias
-npm install
-
-# 2. Crea un archivo .env.local y añade tus variables de entorno
-cp .env.example .env.local
-
-# 3. Corre el proyecto en desarrollo
-npm run dev
-# linkedin-brand
